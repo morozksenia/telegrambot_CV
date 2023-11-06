@@ -1,3 +1,3 @@
-# telegramBotHerokuColab
+# telegramBot_CV
 
-Тестовое описание
+Telegram bot
