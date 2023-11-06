@@ -1,3 +1,3 @@
 # telegramBot_CV
 
-Telegram bot
+Telegram bot working with GoogleCollab
