@@ -28,7 +28,7 @@ def lalala(message):
 		if message.text == '🧡 My repository':
 			bot.send_message(message.chat.id, 'https://github.com/morozksenia')
 		elif message.text == '😋 Text me':
-			bot.send_message(message.chat.id, 'http://t.me/Kesa_morta')
+			bot.send_message(message.chat.id, 'http://t.me/Kesa_Morta')
 		else:
 			bot.send_message(message.chat.id, 'I dont know what to say...😢')
 
@@ -43,4 +43,4 @@ bot.polling(none_stop=True)
 
 
 
-#https://core.telegram.org/bots/api#available-methods
+
